@@ -42,3 +42,9 @@
 ## 2021
 - [K3d for Local Kubernetes Development](https://devtron.ai/blog/k3d-local-kubernetes-development/)
 - [Deploy your Applications Over K3s in No‑time](https://devtron.ai/blog/deploy-over-k3s/)
+- [An Open Source No-Code Solution for Kubernetes Deployment now on Minikube](https://dev.to/abhinavd26/an-open-source-no-code-solution-for-kubernetes-deployment-now-on-minikube-36ep)
+- [All about k3s - Lightweight Kubernetes](https://dev.to/abhinavd26/all-about-k3s-lightweight-kubernetes-3ell)
+- [Different Ways of Creating k3s Cluster](https://dev.to/abhinavd26/different-ways-of-creating-k3s-cluster-p7m)
+- [Devtron : Deploy your applications over k3s, Lightweight Kubernetes, in no-time](https://dev.to/abhinavd26/devtron-deploy-your-applications-over-k3s-lightweight-kubernetes-in-no-time-2k2g)
+- [Start your Open Source Journey with Git](https://dev.to/abhinavd26/start-your-open-source-journey-with-git-20o3)
+- [K3d for Local Kubernetes Development](https://dev.to/abhinavd26/k3d-for-local-kubernetes-development-5f13)
