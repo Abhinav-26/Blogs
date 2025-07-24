@@ -1,7 +1,5 @@
 # Blogs
 
-# Devtron Blog
-
 ## 2025
 - [Understanding CMD and ENTRYPOINT Differences in Docker](https://devtron.ai/blog/cmd-and-entrypoint-differences/)
 - [A Guide to Kubernetes Observability](https://devtron.ai/blog/a-guide-to-kubernetes-observability/)
